@@ -1,1 +1,1 @@
-# Signal-Processing
+# PyperPlan: STRIPS planning with Python
