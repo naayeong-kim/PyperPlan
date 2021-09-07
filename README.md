@@ -4,7 +4,8 @@
 
 이 프로젝트는 Anaconda (Jupyter Notebook) IDE에서 Python을 사용하여 진행되었으며, 자세한 구현 방법 및 결과는 다음과 같은 추가 코드 파일 및 리포트에서 확인하실 수 있습니다.<br/> 
 - [해당 연구에 대한 code 보러가기](/code) <br/>
-- [해당 연구에 대한 full report 보러가기](report.pdf) <br/> 
+- [해당 연구에 대한 full report 보러가기](doc/report.pdf) <br/> 
+- [프로젝트 실행 로그](doc/execution_log.pdf) <br/> 
 - [PyperPlan 참고 자료](https://github.com/aibasel/pyperplan/blob/master/doc/documentation.md)<br/><br/>
 
 
